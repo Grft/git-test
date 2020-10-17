@@ -1,0 +1,25 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grft/git-test.git"
+  },
+  "author": "Grft",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Grft/git-test/issues"
+  },
+  "homepage": "https://github.com/Grft/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {}
+}
